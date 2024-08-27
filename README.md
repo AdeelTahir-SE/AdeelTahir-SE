@@ -28,8 +28,8 @@
 
 ### 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/adeel-tahir-41ba212b9/)
+- **Email:** [Email](mailto:your.email@example.com)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/adeel-tahir-41ba212b9/)
 - **Portfolio:** [Your Portfolio Website](#)
 
 Feel free to check out my repositories and connect with me!
