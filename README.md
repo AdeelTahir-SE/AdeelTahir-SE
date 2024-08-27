@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 <h1 align="center">Hi 👋, I'm Adeel Tahir</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
@@ -27,7 +29,7 @@
 ### 📫 How to Reach Me
 
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/adeel-tahir-41ba212b9/)
 - **Portfolio:** [Your Portfolio Website](#)
 
 Feel free to check out my repositories and connect with me!
