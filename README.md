@@ -154,7 +154,7 @@ const AdeelTahir = {
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Quote of the Day
 
 <div align="center">
 
