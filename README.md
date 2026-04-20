@@ -109,15 +109,15 @@ const AdeelTahir = {
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdeelTahir-SE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdeelTahir-SE&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdeelTahir-SE&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelTahir-SE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdeelTahir-SE&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%"  src="https://github-readme-activity-graph.vercel.app/graph?username=AdeelTahir-SE&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -151,7 +151,6 @@ const AdeelTahir = {
   </picture>
 </div>
 
-> 💡 **To enable the snake animation:** Go to your profile repo → Actions → Enable Actions → Create `.github/workflows/snake.yml` with the [snake workflow](https://github.com/Platane/snk#readme).
 
 ---
 
@@ -183,34 +182,19 @@ const AdeelTahir = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdeelTahir-SE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AdeelTahir-SE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AdeelTahir_SE)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeltahir@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://AdeelTahir-SE.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeel-tahir-fullstackdeveloper/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adeeltahir6a@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adeeltahir-portfolio.vercel.app/)
 
 </div>
 
----
 
-## 💻 Weekly Coding Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   ██████████░░░░░░░░░░   45.2%
-TypeScript   █████░░░░░░░░░░░░░░░   22.1%
-Python       ████░░░░░░░░░░░░░░░░   18.3%
-CSS          ██░░░░░░░░░░░░░░░░░░    8.4%
-Other        █░░░░░░░░░░░░░░░░░░░    6.0%
-```
-<!--END_SECTION:waka-->
-
-> 💡 Enable live WakaTime stats by connecting [WakaTime](https://wakatime.com) to your GitHub via [waka-readme](https://github.com/athul/waka-readme).
 
 ---
 
 <div align="center">
 
-### 💬 "First, solve the problem. Then, write the code." — John Johnson
+### "First, solve the problem. Then, write the code." — John Johnson
 
 <br/>
 
