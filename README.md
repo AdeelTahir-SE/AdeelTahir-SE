@@ -3,6 +3,12 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Adeel%20Tahir&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descAlign=50&descSize=16" />
 
+
+<img width="800" height="450" alt="shark" src="https://github.com/user-attachments/assets/dc84e53a-d5ab-4c1d-953b-5b09c484bb4b" />
+
+
+
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Adeel+Tahir+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+awesome+things+with+code+%F0%9F%94%A5;Always+learning%2C+always+growing+%F0%9F%8C%B1;Open+Source+Contributor+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
@@ -33,7 +39,6 @@ const AdeelTahir = {
 };
 ```
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 - 🔭 I'm currently working on **exciting full-stack projects**
 - 🌱 I'm currently learning **Cloud Architecture & DevOps**
