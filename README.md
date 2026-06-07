@@ -118,25 +118,14 @@ const AdeelTahir = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdeelTahir-SE&show_icons=true&theme=tokyonight&hide_border=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdeelTahir-SE&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdeelTahir-SE&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 <img width="49%"  src="https://github-readme-activity-graph.vercel.app/graph?username=AdeelTahir-SE&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://trophy.ryglcloud.net/?username=AdeelTahir-SE&theme=tokyonight&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
