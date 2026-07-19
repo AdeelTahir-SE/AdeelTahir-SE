@@ -1,9 +1,9 @@
 ```
-    ___    ____  ______________       _________    __  __________ 
-   /   |  / __ \/ ____/ ____/ /      /_  __/   |  / / / /  _/ __ \
-  / /| | / / / / __/ / __/ / /        / / / /| | / /_/ // // /_/ /
- / ___ |/ /_/ / /___/ /___/ /___     / / / ___ |/ __  // // _, _/ 
-/_/  |_/_____/_____/_____/_____/    /_/ /_/  |_/_/ /_/___/_/ |_|  
+                        ___    ____  ______________       _________    __  __________ 
+                       /   |  / __ \/ ____/ ____/ /      /_  __/   |  / / / /  _/ __ \
+                      / /| | / / / / __/ / __/ / /        / / / /| | / /_/ // // /_/ /
+                     / ___ |/ /_/ / /___/ /___/ /___     / / / ___ |/ __  // // _, _/ 
+                    /_/  |_/_____/_____/_____/_____/    /_/ /_/  |_/_/ /_/___/_/ |_|  
 ```
 
 <p align="center">
@@ -44,28 +44,6 @@ Tools       │ VS Code · Postman · Figma · Linux
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdeelTahir-SE&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AdeelTahir-SE&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
-## 2025 Goals
-
-```
-[ ] Master cloud-native architecture
-[ ] Dive deeper into AI/ML integrations
-[ ] Publish an open-source npm package
-[ ] Contribute to 10+ open source projects
-[ ] Start a technical blog
-[ ] Land a senior developer role
-```
-
----
-
 ## Connect
 
 ```
@@ -77,4 +55,3 @@ Email     → adeeltahir6a@email.com
 
 ---
 
-<p align="center"><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
