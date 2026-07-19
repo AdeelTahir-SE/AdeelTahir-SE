@@ -42,7 +42,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,kubernetes" />
   <img src="https://img.shields.io/badge/BullMQ-CC0000?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=white" />
 </p>
 
 **AI / LLMs**
@@ -60,13 +59,12 @@
 
 **DevOps & Cloud**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,aws,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,githubactions,vercel" />
 </p>
 
 **Tools & IDEs**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white" />
 </p>
 
 ---
